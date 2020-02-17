@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignmnet6</string>
+
+    <string name="text_View_Name1">Chiara</string>
+    <string name="textViewNumber1">218-464-2466</string>
+    <string name="text_View_Name2">Mom</string>
+    <string name="textViewNumber2">218-464-2466</string>
+    <string name="textViewName3">Dad</string>
+    <string name="textViewNumber3">218-464-2466</string>
+
+
+</resources>
